@@ -27,7 +27,7 @@ It combines financial decomposition, growth analysis, and automated insight gene
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, NumPy)  
 - Power BI (Visualization & dashboards)  
 - Excel (Data preparation)  
